@@ -62,7 +62,8 @@ public class Game
 			}
 			else
 			{
-				System.out.println("VICTORY!!!!!!!");
+				System.out.println("You've done it!");
+				System.out.println("VICTORY");
 				System.exit(1);
 			}
 		}	
